@@ -1,3 +1,3 @@
-<?php>
-include_once("index.htkml") :
+<?php
+include_once("index.html") :
 ?>
